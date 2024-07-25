@@ -1,5 +1,5 @@
 # LogicPL
-A compiler implemented during programming languages and compiler course at University of Tehran (Spring 2023)
+A compiler implemented during the programming languages and compilers design course at University of Tehran (Spring 2023)
 
 ## What is LogicPL?
 
